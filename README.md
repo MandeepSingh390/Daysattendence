@@ -9,6 +9,6 @@ and will output days example -> 200
 <br>
 The working is simple and it can be optimized further, currently it is using a simple while loop.
 <br>
-Explaniation of calculation :- if input is "100 200 75" the resutlt will be 200,
-because 100 + 200 = 300 , 200 + 200 = 400
+Explaniation of calculation :- <br>If input is "100 200 75" the resutlt will be 200, <br>
+because 100 + 200 = 300 , 200 + 200 = 400 <br>
         300/400 * 100 = 75%
